@@ -1,0 +1,1 @@
+The Design of the Website has been inspired by [Stefan.dev](https://stefantopalovicdev.vercel.app)
